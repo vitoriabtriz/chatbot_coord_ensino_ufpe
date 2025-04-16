@@ -78,3 +78,19 @@ Certifique-se de que você tem o seguinte instalado:
 
 - Arquivos sensíveis ou temporários, como arquivos de ambiente (`.env`) e diretórios de ambiente virtual (`env/`), estão ignorados no repositório com o uso de um arquivo `.gitignore`.
 
+Claro! Aqui vai um texto que você pode incluir no seu `README.md`, informando que as perguntas estão respondidas no vídeo vinculado ao documento:
+
+---
+
+## 🎥 Explicações em Vídeo
+
+As perguntas abaixo são respondidas no vídeo que está acessível por meio do link presente no documento PDF:
+
+1- Qual a coordenação escolhida? Como foi feita a preparação dos dados?  
+2- Qual a arquitetura do sistema? Como as partes estão integradas?  
+3- Como você avaliou as respostas para verificar se estão adequadas ao objetivo?  
+4- Qual foi o seu maior desafio durante a implementação do projeto?  
+
+📄 [Clique aqui para acessar o documento com o link do vídeo](https://drive.google.com/file/d/1am4wiYf50RQ5AvTwpwJ92gecn3SneyM_/view?usp=sharing)
+
+
